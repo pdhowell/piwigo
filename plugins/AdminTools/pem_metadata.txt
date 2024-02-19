@@ -1,0 +1,2 @@
+https://github.com/Piwigo/AdminTools.git
+ad5622bcb662e0e49818b8bb5402acbf78a7c32a 2024-01-19 15:02:56 +0100
